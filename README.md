@@ -2,7 +2,7 @@
 
 
 ## Example:
-```
+```typescript
 import { TreeBot, TreeTask, BranchTask, LeafTask } from './mod.ts'
 
 class IsSunday extends BranchTask {
