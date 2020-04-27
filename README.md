@@ -1,4 +1,4 @@
-# TreeBot framework for Deno
+# TreeBot framework for deno/node
 
 
 ## Example:
